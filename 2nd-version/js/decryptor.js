@@ -22,7 +22,6 @@ function decryptor(valueToDecrypt) {
                 break;
             case "@":
                 values.decryptedValueArray[i] = "a";
-                break;
             case "o":
                 values.decryptedValueArray[i] = "0";
                 break;
